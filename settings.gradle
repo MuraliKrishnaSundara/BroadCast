@@ -1,0 +1,2 @@
+rootProject.name = "SendBroadcastBetweenApps1"
+include ':app'
